@@ -1,7 +1,5 @@
 import { View } from "react-native";
 import { Text } from "react-native-paper";
-import { db } from "../config/firebase";
-
 /**
      * Criar um TextInput que faça buscas no banco e exiba em um Flatlist
      * Lembre-se de usar a expressão "utilizando a Web Version 9 do Firebase"
